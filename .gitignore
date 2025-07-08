@@ -1,0 +1,12 @@
+# Veri dosyaları
+dataFile/spam_modified.csv
+dataFile/enron_spam_data_modified.csv
+
+# Eğitilen büyük modeller
+models/*.pkl
+
+# Jupyter geçici dosyaları
+.ipynb_checkpoints/
+
+# MacOS sistem dosyası
+.DS_Store
