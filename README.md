@@ -69,8 +69,8 @@ Modeller %80 eğitim / %20 test ayrımı ile değerlendirilir.
 
 | Model | Dataset 1 (GridSearch) | Dataset 2 (RandomizedSearch) |
 |-------|-------------------------|-------------------------------|
-| SVM   | C, kernel, gamma        | Aynı parametreler             |
-| RF    | n_estimators, max_depth | Aynı parametreler             |
+| SVM   | C, kernel, gamma        | Daha az parametmer kullanıldı             |
+| RF    | n_estimators, max_depth | Daha az parametmer kullanıldı             |
 | MLP   | hidden_layer_sizes, learning_rate_init, max_iter | Aynı |
 
 ---
