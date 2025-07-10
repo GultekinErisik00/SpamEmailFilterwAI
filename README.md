@@ -71,7 +71,7 @@ Modeller %80 eğitim / %20 test ayrımı ile değerlendirilir.
 |-------|-------------------------|-------------------------------|
 | SVM   | C, kernel, gamma        | Daha az parametmer kullanıldı             |
 | RF    | n_estimators, max_depth | Daha az parametmer kullanıldı             |
-| MLP   | hidden_layer_sizes, learning_rate_init, max_iter | Aynı |
+| MLP   | hidden_layer_sizes, learning_rate_init, max_iter | Daha az parametmer kullanıldı |
 
 ---
 
