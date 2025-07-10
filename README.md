@@ -27,7 +27,7 @@ Her veri setinde:
 
 ---
 
-## 🧠 Özellik (Feature) Çıkarımı
+## Özellik (Feature) Çıkarımı
 
 `extract_features()` fonksiyonu ile aşağıdaki adımlar gerçekleştirilir:
 
@@ -48,7 +48,7 @@ Her veri setinde:
 
 ---
 
-## 🧪 Model Eğitimi ve Değerlendirme
+## Model Eğitimi ve Değerlendirme
 
 Modeller %80 eğitim / %20 test ayrımı ile değerlendirilir.
 
